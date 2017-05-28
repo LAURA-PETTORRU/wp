@@ -12,7 +12,7 @@ h4 {
 }
 
 .jumbotron {
-	background: url(../images/bg.jpeg) no-repeat;
+	background: url(./images/bg.jpeg) no-repeat;
 	background-size: cover;
 	max-height: 530px;
 	color: #000;
