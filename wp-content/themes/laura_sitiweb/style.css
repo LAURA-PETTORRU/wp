@@ -1,3 +1,60 @@
-body{
+/* form style*/
+h1 {
+	font-size: 63px;
+text-align: center;
+color: #fff;
+}
+
+h4 {
+	font-size: 18px;
+	text-align: center;
+	color: #fff;
+}
+
+.jumbotron {
+	background: url(../images/bg.jpeg) no-repeat;
+	background-size: cover;
+	max-height: 530px;
+	color: #000;
+}
+
+.laura-form {
+	padding: 10px 200px 10px 200px;
+	
+}
+.laura-form textarea {
+	height: 108px;
+	
+}
+.navbar-brand {
+	background: url(../images/logo.png) no-repeat;
+	width: 150px;
+}
+.navbar-default {
+	background: transparent;
+	border-color: transparent;
+}
+.navbar-default .navbar-nav>li>a {
+	color: #fff;
+	font-size: 25px;
+	font-weight: 600;
+}
+.welcome {
+    background: rgba(0, 0, 0, 0.2);
+    color: rgba(256, 256, 256, 0.85);
+    padding: 100px;
+    text-align: center;
+}
+
+@media (max-width: 750px) {
+	.navbar-default .navbar-nav>li>a {
+	text-align: center;
+	font-size: 20px;
+	color: #fff;
+}
+.navbar-default .navbar-collapse{
+	background: rgba(0,0,0, 0.2);
+	border-color: transparent;
+}
 
 }
