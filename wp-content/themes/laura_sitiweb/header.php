@@ -28,7 +28,7 @@
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="#">Explore</a></li>
 						<li><a href="#">Travel</a></li>
-						<li><a href="#Contact">Contact us</a></li>
+						<li><a href="#contact">Contact us</a></li>
 					</ul>
 				</div><!-- /.navbar-collapse -->
 			</div><!-- /.container-fluid -->
